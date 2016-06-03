@@ -4,5 +4,5 @@ Example of how to implement circular images with edge with Picasso transformatio
 ![Screen capture] (https://pinicius.com/wp-content/uploads/2016/04/BorderedCircleImageExample-capture.png)
 
 
-This example is part of the post https://pinicius.com/images-circulares-usando-picasso in my blog.
+This example is part of the post https://pinicius.com/images-circulares-con-borde-usando-picasso in my blog.
 
